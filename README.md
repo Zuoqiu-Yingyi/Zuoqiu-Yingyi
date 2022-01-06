@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hy/Zuoqiu-Yingyi/Zuoqiu-Yingyi?label=hits)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuoqiu-Yingyi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuoqiu-Yingyi&show_icons=true&theme=buefy)
+
 <!--
 **Zuoqiu-Yingyi/Zuoqiu-Yingyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
