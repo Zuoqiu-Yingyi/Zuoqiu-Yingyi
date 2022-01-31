@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hy/Zuoqiu-Yingyi/Zuoqiu-Yingyi?label=hits)
+![hits](https://hits.b3log.org/Zuoqiu-Yingyi/Zuoqiu-Yingyi.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuoqiu-Yingyi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuoqiu-Yingyi&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuoqiu-Yingyi&show_icons=true&theme=buefy&include_all_commits=true)
 
 <!--
 **Zuoqiu-Yingyi/Zuoqiu-Yingyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
