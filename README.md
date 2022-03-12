@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-![hits](https://hits.b3log.org/Zuoqiu-Yingyi/Zuoqiu-Yingyi.svg)
+[![GitHub followers](https://img.shields.io/github/followers/Zuoqiu-Yingyi?style=flat-square)](https://github.com/Zuoqiu-Yingyi?tab=followers) ![hits](https://hits.b3log.org/Zuoqiu-Yingyi/Zuoqiu-Yingyi.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuoqiu-Yingyi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuoqiu-Yingyi&layout=compact&langs_count=8&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuoqiu-Yingyi&show_icons=true&theme=buefy&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zuoqiu-Yingyi)
 
 <!--
 **Zuoqiu-Yingyi/Zuoqiu-Yingyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
