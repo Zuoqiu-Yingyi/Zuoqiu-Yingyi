@@ -63,9 +63,9 @@
 <!-- REF https://github.com/yoshi389111/github-profile-3d-contrib -->
 <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-custom-light-season.svg">
         <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-custom-dark-blud.svg">
-        <img alt="contribution-3D" src="./profile-3d-contrib/profile-green.svg">
+        <img alt="contribution-3D" src="./profile-3d-contrib/profile-custom-light-green.svg">
     </picture>
 </a>
 <br />
