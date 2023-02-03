@@ -22,8 +22,9 @@
         <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuoqiu-Yingyi&layout=compact&langs_count=8&show_icons=true&hide=jupyter%20notebook&theme=buefy">
     </picture>
 </a>
+<br />
 
-<!-- GitHub 状态 -->
+<!-- 统计信息 -->
 <!-- REF https://github.com/anuraghazra/github-readme-stats -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuoqiu-Yingyi&show_icons=true&theme=buefy&include_all_commits=true) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -33,14 +34,16 @@
         <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Zuoqiu-Yingyi&show_icons=true&include_all_commits=true&theme=buefy">
     </picture>
 </a>
+<br />
 
-<!-- 连续提交天数 -->
+<!-- 连续提交 -->
 <!-- REF https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zuoqiu-Yingyi) -->
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Zuoqiu-Yingyi&date_format=Y%2Fn%2Fj&theme=buefy">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Zuoqiu-Yingyi&date_format=Y%2Fn%2Fj&border=E4E2E2&currStreakNum=363636&currStreakLabel=363636&theme=buefy">
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Zuoqiu-Yingyi&date_format=Y%2Fn%2Fj&theme=nord">
-        <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Zuoqiu-Yingyi&date_format=Y%2Fn%2Fj&theme=buefy">
+        <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Zuoqiu-Yingyi&date_format=Y%2Fn%2Fj&border=E4E2E2&currStreakNum=363636&currStreakLabel=363636&theme=buefy">
     </picture>
 </a>
+<br />
