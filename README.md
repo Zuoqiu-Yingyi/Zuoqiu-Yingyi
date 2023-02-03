@@ -41,9 +41,20 @@
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zuoqiu-Yingyi) -->
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Zuoqiu-Yingyi&date_format=Y%2Fn%2Fj&border=E4E2E2&currStreakNum=363636&currStreakLabel=363636&theme=buefy">
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Zuoqiu-Yingyi&date_format=Y%2Fn%2Fj&theme=nord">
-        <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Zuoqiu-Yingyi&date_format=Y%2Fn%2Fj&border=E4E2E2&currStreakNum=363636&currStreakLabel=363636&theme=buefy">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Zuoqiu-Yingyi&date_format=Y%2Fn%2Fj&border=E4E2E2&currStreakNum=363636&currStreakLabel=7958D5&theme=buefy">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Zuoqiu-Yingyi&date_format=Y%2Fn%2Fj&currStreakNum=D8DEE9&currStreakLabel=80A0C0&theme=nord">
+        <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Zuoqiu-Yingyi&date_format=Y%2Fn%2Fj&border=E4E2E2&currStreakNum=363636&currStreakLabel=7958D5&theme=buefy">
+    </picture>
+</a>
+<br />
+
+<!-- 最近活动折线图 -->
+<!-- REF https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Zuoqiu-Yingyi&radius=8&title_color=7958d5&bg_color=ffffff&color=363636&line=987edf&point=7a1cd5&area=true&area_color=987edf">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Zuoqiu-Yingyi&radius=8&title_color=80A0C0&bg_color=2e3440&color=d8dee9&line=80a0c0&point=87bfcf&area=true&area_color=80a0c0">
+        <img alt="GitHub Streak" src="https://github-readme-activity-graph.cyclic.app/graph?username=Zuoqiu-Yingyi&radius=8&title_color=7958d5&bg_color=ffffff&color=363636&line=987edf&point=7a1cd5&area=true&area_color=987edf">
     </picture>
 </a>
 <br />
