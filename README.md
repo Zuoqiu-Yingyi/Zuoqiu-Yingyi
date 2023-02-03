@@ -58,3 +58,14 @@
     </picture>
 </a>
 <br />
+
+<!-- 三维贡献热力图 -->
+<!-- REF https://github.com/yoshi389111/github-profile-3d-contrib -->
+<a href="https://github.com/yoshi389111/github-profile-3d-contrib">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+        <img alt="contribution-3D" src="./profile-3d-contrib/profile-green.svg">
+    </picture>
+</a>
+<br />
