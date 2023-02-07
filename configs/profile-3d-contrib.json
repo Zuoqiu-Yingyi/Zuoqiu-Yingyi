@@ -4,9 +4,9 @@
         "fileName": "profile-custom-dark-blud.svg",
         "backgroundColor": "#2E3440",
         "foregroundColor": "#D8DEE9",
-        "strongColor": "#80A0C0",
+        "strongColor": "#7490AC",
         "weakColor": "gray",
-        "radarColor": "#80A0C0",
+        "radarColor": "#7490AC",
         "growingAnimation": true,
         "contribColors": [
             "#193C82",
@@ -21,9 +21,9 @@
         "fileName": "profile-custom-light-green.svg",
         "backgroundColor": "#FFFFFF",
         "foregroundColor": "#363636",
-        "strongColor": "#7A58D5",
+        "strongColor": "#8F72DB",
         "weakColor": "gray",
-        "radarColor": "#7A58D5",
+        "radarColor": "#8F72DB",
         "growingAnimation": true,
         "contribColors": [
             "#efefef",
