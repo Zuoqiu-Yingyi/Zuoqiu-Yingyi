@@ -52,9 +52,9 @@
 <!-- REF https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Zuoqiu-Yingyi&radius=8&title_color=7958d5&bg_color=ffffff&color=363636&line=BCABEA&point=8F72DB&area=true&area_color=8F72DB">
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Zuoqiu-Yingyi&radius=8&title_color=80A0C0&bg_color=2e3440&color=d8dee9&line=576A80&point=7490AC&area=true&area_color=7490AC">
-        <img alt="GitHub Streak" src="https://github-readme-activity-graph.cyclic.app/graph?username=Zuoqiu-Yingyi&radius=8&title_color=7958d5&bg_color=ffffff&color=363636&line=BCABEA&point=8F72DB&area=true&area_color=8F72DB">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zuoqiu-Yingyi&radius=8&title_color=7958d5&bg_color=ffffff&color=363636&line=BCABEA&point=8F72DB&area=true&area_color=8F72DB">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zuoqiu-Yingyi&radius=8&title_color=80A0C0&bg_color=2e3440&color=d8dee9&line=576A80&point=7490AC&area=true&area_color=7490AC">
+        <img alt="GitHub Streak" src="https://github-readme-activity-graph.vercel.app/graph?username=Zuoqiu-Yingyi&radius=8&title_color=7958d5&bg_color=ffffff&color=363636&line=BCABEA&point=8F72DB&area=true&area_color=8F72DB">
     </picture>
 </a>
 <br />
