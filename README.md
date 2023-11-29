@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!-- REF https://github.com/denvercoder1/readme-typing-svg -->
 <a href="https://github.com/denvercoder1/readme-typing-svg">
@@ -11,6 +11,114 @@
 
 <!-- 徽章 -->
 [![GitHub followers](https://img.shields.io/github/followers/Zuoqiu-Yingyi?style=flat-square)](https://github.com/Zuoqiu-Yingyi?tab=followers) ![hits](https://hits.b3log.org/Zuoqiu-Yingyi/Zuoqiu-Yingyi.svg)
+
+<!-- 技术栈 -->
+## Teck Stack
+
+<!-- 语言 -->
+### Languages
+
+[![C](https://img.shields.io/badge/%E2%80%8D-C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/)
+[![C++](https://img.shields.io/badge/%E2%80%8D-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/%E2%80%8D-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/🍵_%E2%80%8B_%E2%80%8B-Java-F44336?style=flat-square&logoColor=white)](https://www.java.com/)
+[![Go](https://img.shields.io/badge/%E2%80%8B-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
+[![Kotlin](https://img.shields.io/badge/%E2%80%8B-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+
+[![JavaScript](https://img.shields.io/badge/%E2%80%8D-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/javascript)
+[![TypeScript](https://img.shields.io/badge/%E2%80%8D-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![HTML5](https://img.shields.io/badge/%E2%80%8D-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS3](https://img.shields.io/badge/%E2%80%8D-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![Less](https://img.shields.io/badge/%E2%80%8D-Less-1D365D?style=flat-square&logo=less&logoColor=white)](https://lesscss.org/)
+
+[![JSON](https://img.shields.io/badge/%E2%80%8D-JSON-F9A825?style=flat-square&logo=json&logoColor=white)](https://www.json.org/)
+[![XML](https://img.shields.io/badge/X_%E2%80%8D-XML-8BC34A?style=flat-square&logoColor=white)](https://www.w3.org/XML/)
+[![YAML](https://img.shields.io/badge/%E2%80%8D-YAML-CB171E?style=flat-square&&logo=yaml&logoColor=white)](https://yaml.org/)
+[![TOML](https://img.shields.io/badge/%E2%80%8D-TOML-9C4121?style=flat-square&&logo=toml&logoColor=white)](https://toml.io/)
+
+[![Markdown](https://img.shields.io/badge/%E2%80%8D-Markdown-42A5F5?style=flat-square&logo=markdown&logoColor=white)](https://commonmark.org/)
+[![LaTeX](https://img.shields.io/badge/%E2%80%8D-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
+
+<!-- 框架 -->
+### Frameworks
+
+#### Web
+
+![Vue.js](https://img.shields.io/badge/%E2%80%8D-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/%E2%80%8D-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+
+![Electron](https://img.shields.io/badge/%E2%80%8D-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Django](https://img.shields.io/badge/%E2%80%8D-Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+#### Native
+
+![Jetpack Compose](https://img.shields.io/badge/%E2%80%8D-Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+
+<!-- 数据库 -->
+### Database
+
+[![SQLite](https://img.shields.io/badge/%E2%80%8D-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://sqlite.org/)
+[![PostgreSQL](https://img.shields.io/badge/%E2%80%8D-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/%E2%80%8D-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+<!-- 开发运维 -->
+### DevOps
+
+#### OS
+
+[![Windows](https://img.shields.io/badge/%E2%80%8D-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![Linux](https://img.shields.io/badge/%E2%80%8D-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
+[![Android](https://img.shields.io/badge/%E2%80%8D-Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
+
+#### Shell
+
+[![PowerShell](https://img.shields.io/badge/%E2%80%8D-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
+[![Bash](https://img.shields.io/badge/%E2%80%8D-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Nushell](https://img.shields.io/badge/nu_%E2%80%8B-Nushell-4E9A06?style=flat-square&logoColor=white)](https://www.nushell.sh/)
+
+#### IDE
+
+[![Visual Studio Code](https://img.shields.io/badge/%E2%80%8D-Visual_Studio_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Android Studio](https://img.shields.io/badge/%E2%80%8D-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
+[![Jupyter](https://img.shields.io/badge/%E2%80%8D-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+#### Code
+
+[![Git](https://img.shields.io/badge/%E2%80%8D-Git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/%E2%80%8D-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![GitHub Actions](https://img.shields.io/badge/%E2%80%8D-GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Turbo](https://img.shields.io/badge/%E2%80%8D-Turbo-5CD8E5?style=flat-square&logo=turbo&logoColor=white)](https://turbo.build/)
+
+#### Package
+
+[![npm](https://img.shields.io/badge/%E2%80%8D-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![pnpm](https://img.shields.io/badge/%E2%80%8D-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)](https://pnpm.io/)
+[![Anaconda](https://img.shields.io/badge/%E2%80%8D-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)](https://pnpm.io/)
+
+#### Build
+
+[![Node.js](https://img.shields.io/badge/%E2%80%8D-Node.js-CB3837?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Vite](https://img.shields.io/badge/%E2%80%8D-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+
+#### Test
+
+[![Vitest](https://img.shields.io/badge/%E2%80%8D-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev/)
+[![Postman](https://img.shields.io/badge/%E2%80%8D-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
+
+#### Deploy
+
+[![Docker](https://img.shields.io/badge/%E2%80%8D-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Nginx](https://img.shields.io/badge/%E2%80%8D-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org/)
+[![MinIO](https://img.shields.io/badge/%E2%80%8D-MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)](https://min.io/)
+
+#### Security
+
+[![OpenSSL](https://img.shields.io/badge/%E2%80%8D-OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white)](https://www.openssl.org/)
+[![Wireshark](https://img.shields.io/badge/%E2%80%8D-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Yubico](https://img.shields.io/badge/%E2%80%8D-Yubico-84BD00?style=flat-square&logo=yubico&logoColor=white)](https://www.yubico.com/)
+
+<!-- 统计 -->
+## Stats
 
 <!-- 使用的语言 -->
 <!-- REF https://github.com/anuraghazra/github-readme-stats -->
