@@ -36,7 +36,7 @@
 [![YAML](https://img.shields.io/badge/%E2%80%8D-YAML-CB171E?style=flat-square&&logo=yaml&logoColor=white)](https://yaml.org/)
 [![TOML](https://img.shields.io/badge/%E2%80%8D-TOML-9C4121?style=flat-square&&logo=toml&logoColor=white)](https://toml.io/)
 
-[![Markdown](https://img.shields.io/badge/%E2%80%8D-Markdown-42A5F5?style=flat-square&logo=markdown&logoColor=white)](https://commonmark.org/)
+[![Markdown](https://img.shields.io/badge/%E2%80%8D-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](https://commonmark.org/)
 [![LaTeX](https://img.shields.io/badge/%E2%80%8D-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
 
 <!-- 框架 -->
@@ -99,6 +99,7 @@
 
 [![Node.js](https://img.shields.io/badge/%E2%80%8D-Node.js-CB3837?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Vite](https://img.shields.io/badge/%E2%80%8D-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Webpack](https://img.shields.io/badge/%E2%80%8D-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
 
 #### Test
 
