@@ -93,6 +93,10 @@
 
 [![npm](https://img.shields.io/badge/%E2%80%8D-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![pnpm](https://img.shields.io/badge/%E2%80%8D-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)](https://pnpm.io/)
+
+[![PyPI](https://img.shields.io/badge/%E2%80%8D-PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/)
+[![pipx](https://img.shields.io/badge/%E2%80%8D-pipx-2CFFAA?style=flat-square&logo=pipx&logoColor=white)](https://pipx.pypa.io)
+[![Poetry](https://img.shields.io/badge/%E2%80%8D-Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white)](https://python-poetry.org/)
 [![Anaconda](https://img.shields.io/badge/%E2%80%8D-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)](https://pnpm.io/)
 
 #### Build
