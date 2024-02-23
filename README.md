@@ -46,6 +46,7 @@
 
 ![Vue.js](https://img.shields.io/badge/%E2%80%8D-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/%E2%80%8D-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/%E2%80%8D-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 
 ![Electron](https://img.shields.io/badge/%E2%80%8D-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Django](https://img.shields.io/badge/%E2%80%8D-Django-092E20?style=flat-square&logo=django&logoColor=white)
