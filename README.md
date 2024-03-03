@@ -44,16 +44,19 @@
 
 #### Web
 
-![Vue.js](https://img.shields.io/badge/%E2%80%8D-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/%E2%80%8D-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![React](https://img.shields.io/badge/%E2%80%8D-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+[![Vue.js](https://img.shields.io/badge/%E2%80%8D-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![Svelte](https://img.shields.io/badge/%E2%80%8D-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)](https://svelte.dev/)
+[![React](https://img.shields.io/badge/%E2%80%8D-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
 
-![Electron](https://img.shields.io/badge/%E2%80%8D-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Django](https://img.shields.io/badge/%E2%80%8D-Django-092E20?style=flat-square&logo=django&logoColor=white)
+[![Django](https://img.shields.io/badge/%E2%80%8D-Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Gin](https://img.shields.io/badge/%E2%80%8D-Gin-008ECF?style=flat-square&logo=gin&logoColor=white)](https://gin-gonic.com/)
+
+[![Electron](https://img.shields.io/badge/%E2%80%8D-Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
 
 #### Native
 
-![Jetpack Compose](https://img.shields.io/badge/%E2%80%8D-Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+[![Jetpack Compose](https://img.shields.io/badge/%E2%80%8D-Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
+[![React Native](https://img.shields.io/badge/%E2%80%8D-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
 
 <!-- 数据库 -->
 ### Database
