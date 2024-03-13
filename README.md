@@ -50,6 +50,7 @@
 
 [![Django](https://img.shields.io/badge/%E2%80%8D-Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Gin](https://img.shields.io/badge/%E2%80%8D-Gin-008ECF?style=flat-square&logo=gin&logoColor=white)](https://gin-gonic.com/)
+[![Express](https://img.shields.io/badge/%E2%80%8D-Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
 
 [![Electron](https://img.shields.io/badge/%E2%80%8D-Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
 
