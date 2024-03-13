@@ -38,6 +38,7 @@
 
 [![Markdown](https://img.shields.io/badge/%E2%80%8D-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](https://commonmark.org/)
 [![LaTeX](https://img.shields.io/badge/%E2%80%8D-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
+[![Typst](https://img.shields.io/badge/%E2%80%8D-Typst-239DAD?style=flat-square&logo=typst&logoColor=white)](https://typst.app/)
 
 <!-- 框架 -->
 ### Frameworks
