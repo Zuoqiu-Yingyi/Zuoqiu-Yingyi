@@ -136,9 +136,9 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuoqiu-Yingyi&layout=compact&langs_count=8&show_icons=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuoqiu-Yingyi&layout=compact&langs_count=10&show_icons=true&hide=jupyter%20notebook&theme=buefy">
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuoqiu-Yingyi&layout=compact&langs_count=10&show_icons=true&hide=jupyter%20notebook&theme=nord">
-        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuoqiu-Yingyi&layout=compact&langs_count=10&show_icons=true&hide=jupyter%20notebook&theme=buefy">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuoqiu-Yingyi&layout=compact&langs_count=20&show_icons=true&hide=jupyter%20notebook&theme=buefy">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuoqiu-Yingyi&layout=compact&langs_count=20&show_icons=true&hide=jupyter%20notebook&theme=nord">
+        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuoqiu-Yingyi&layout=compact&langs_count=20&show_icons=true&hide=jupyter%20notebook&theme=buefy">
     </picture>
 </a>
 <br />
@@ -147,9 +147,9 @@
 <!-- REF https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Zuoqiu-Yingyi&show_icons=true&include_all_commits=true&theme=buefy">
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Zuoqiu-Yingyi&show_icons=true&include_all_commits=true&theme=nord">
-        <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Zuoqiu-Yingyi&show_icons=true&include_all_commits=true&theme=buefy">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Zuoqiu-Yingyi&show_icons=true&include_all_commits=true&theme=buefy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Zuoqiu-Yingyi&show_icons=true&include_all_commits=true&theme=nord&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+        <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Zuoqiu-Yingyi&show_icons=true&include_all_commits=true&theme=buefy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
     </picture>
 </a>
 <br />
