@@ -67,6 +67,8 @@
 [![PostgreSQL](https://img.shields.io/badge/%E2%80%8D-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/%E2%80%8D-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
+[![Sequelize](https://img.shields.io/badge/%E2%80%8D-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)](https://sequelize.org)
+
 <!-- 开发运维 -->
 ### DevOps
 
