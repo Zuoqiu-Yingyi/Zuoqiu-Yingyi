@@ -81,7 +81,7 @@
 #### Shell
 
 [![PowerShell](https://img.shields.io/badge/%E2%80%8D-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
-[![Bash](https://img.shields.io/badge/%E2%80%8D-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![GNU Bash](https://img.shields.io/badge/%E2%80%8D-GNU%20Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Nushell](https://img.shields.io/badge/nu_%E2%80%8B-Nushell-4E9A06?style=flat-square&logoColor=white)](https://www.nushell.sh/)
 
 #### IDE
@@ -129,6 +129,7 @@
 [![OpenSSL](https://img.shields.io/badge/%E2%80%8D-OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white)](https://www.openssl.org/)
 [![Wireshark](https://img.shields.io/badge/%E2%80%8D-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![Yubico](https://img.shields.io/badge/%E2%80%8D-Yubico-84BD00?style=flat-square&logo=yubico&logoColor=white)](https://www.yubico.com/)
+[![Let's Encrypt](https://img.shields.io/badge/%E2%80%8D-Let's%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)](https://letsencrypt.org/)
 
 <!-- 统计 -->
 ## Stats
