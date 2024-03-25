@@ -68,6 +68,7 @@
 [![MySQL](https://img.shields.io/badge/%E2%80%8D-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 [![Sequelize](https://img.shields.io/badge/%E2%80%8D-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)](https://sequelize.org)
+[![Prisma](https://img.shields.io/badge/%E2%80%8D-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/)
 
 <!-- 开发运维 -->
 ### DevOps
@@ -130,6 +131,7 @@
 [![Wireshark](https://img.shields.io/badge/%E2%80%8D-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![Yubico](https://img.shields.io/badge/%E2%80%8D-Yubico-84BD00?style=flat-square&logo=yubico&logoColor=white)](https://www.yubico.com/)
 [![Let's Encrypt](https://img.shields.io/badge/%E2%80%8D-Let's%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)](https://letsencrypt.org/)
+[![KeePassXC](https://img.shields.io/badge/%E2%80%8D-KeePassXC-6CAC4D?style=flat-square&logo=keepassxc&logoColor=white)](https://keepassxc.org/)
 
 <!-- 统计 -->
 ## Stats
