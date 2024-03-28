@@ -119,6 +119,8 @@
 #### Test
 
 [![Vitest](https://img.shields.io/badge/%E2%80%8D-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev/)
+[![Jest](https://img.shields.io/badge/%E2%80%8D-Jest-C21325?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io/)
+
 [![Postman](https://img.shields.io/badge/%E2%80%8D-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
 
 #### Deploy
