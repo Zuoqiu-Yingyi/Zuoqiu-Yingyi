@@ -110,9 +110,13 @@
 [![Poetry](https://img.shields.io/badge/%E2%80%8D-Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white)](https://python-poetry.org/)
 [![Anaconda](https://img.shields.io/badge/%E2%80%8D-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)](https://pnpm.io/)
 
+#### Runtime
+
+[![Node.js](https://img.shields.io/badge/%E2%80%8D-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![ts-node](https://img.shields.io/badge/%E2%80%8D-ts−node-3178C6?style=flat-square&logo=tsnode&logoColor=white)](https://typestrong.org/ts-node/)
+
 #### Build
 
-[![Node.js](https://img.shields.io/badge/%E2%80%8D-Node.js-CB3837?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Vite](https://img.shields.io/badge/%E2%80%8D-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Webpack](https://img.shields.io/badge/%E2%80%8D-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
 
