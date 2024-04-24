@@ -130,6 +130,10 @@
 
 [![Postman](https://img.shields.io/badge/%E2%80%8D-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
 
+#### Document
+
+[![VitePress](https://img.shields.io/badge/%E2%80%8D-VitePress-5C73E7?style=flat-square&logo=vitepress&logoColor=white)](https://vitepress.dev/)
+
 #### Deploy
 
 [![Docker](https://img.shields.io/badge/%E2%80%8D-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
