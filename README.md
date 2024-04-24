@@ -72,6 +72,8 @@
 [![Sequelize](https://img.shields.io/badge/%E2%80%8D-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)](https://sequelize.org)
 [![Prisma](https://img.shields.io/badge/%E2%80%8D-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/)
 
+[![DBeaver](https://img.shields.io/badge/%E2%80%8D-DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
+
 <!-- 开发运维 -->
 ### DevOps
 
