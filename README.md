@@ -10,12 +10,15 @@
 </a>
 
 <!-- 徽章 -->
+
 [![GitHub followers](https://img.shields.io/github/followers/Zuoqiu-Yingyi?style=flat-square)](https://github.com/Zuoqiu-Yingyi?tab=followers) ![hits](https://hits.b3log.org/Zuoqiu-Yingyi/Zuoqiu-Yingyi.svg)
 
 <!-- 技术栈 -->
+
 ## Teck Stack
 
 <!-- 语言 -->
+
 ### Languages
 
 [![C](https://img.shields.io/badge/%E2%80%8D-C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/)
@@ -41,6 +44,7 @@
 [![Typst](https://img.shields.io/badge/%E2%80%8D-Typst-239DAD?style=flat-square&logo=typst&logoColor=white)](https://typst.app/)
 
 <!-- 框架 -->
+
 ### Frameworks
 
 #### Web
@@ -63,6 +67,7 @@
 [![React Native](https://img.shields.io/badge/%E2%80%8D-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
 
 <!-- 数据库 -->
+
 ### Database
 
 [![SQLite](https://img.shields.io/badge/%E2%80%8D-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://sqlite.org/)
@@ -75,6 +80,7 @@
 [![DBeaver](https://img.shields.io/badge/%E2%80%8D-DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
 
 <!-- 开发运维 -->
+
 ### DevOps
 
 #### OS
@@ -99,7 +105,14 @@
 
 [![Git](https://img.shields.io/badge/%E2%80%8D-Git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/%E2%80%8D-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Turbo](https://img.shields.io/badge/%E2%80%8D-Turbo-5CD8E5?style=flat-square&logo=turbo&logoColor=white)](https://turbo.build/)
+
+#### CI/CD
+
 [![GitHub Actions](https://img.shields.io/badge/%E2%80%8D-GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
+[![ESLint](https://img.shields.io/badge/%E2%80%8D-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org/)
+[![Prettier](https://img.shields.io/badge/%E2%80%8D-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)](https://prettier.io/)
 
 #### Package
 
@@ -151,6 +164,7 @@
 [![KeePassXC](https://img.shields.io/badge/%E2%80%8D-KeePassXC-6CAC4D?style=flat-square&logo=keepassxc&logoColor=white)](https://keepassxc.org/)
 
 <!-- 统计 -->
+
 ## Stats
 
 <!-- 使用的语言 -->
