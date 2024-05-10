@@ -100,7 +100,6 @@
 [![Git](https://img.shields.io/badge/%E2%80%8D-Git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/%E2%80%8D-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![GitHub Actions](https://img.shields.io/badge/%E2%80%8D-GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![Turbo](https://img.shields.io/badge/%E2%80%8D-Turbo-5CD8E5?style=flat-square&logo=turbo&logoColor=white)](https://turbo.build/)
 
 #### Package
 
@@ -142,10 +141,13 @@
 
 #### Security
 
+[![JSON Web Tokens](https://img.shields.io/badge/%E2%80%8D-JSON_Web_Tokens-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
+
+[![Let's Encrypt](https://img.shields.io/badge/%E2%80%8D-Let's%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)](https://letsencrypt.org/)
+[![Yubico](https://img.shields.io/badge/%E2%80%8D-Yubico-84BD00?style=flat-square&logo=yubico&logoColor=white)](https://www.yubico.com/)
+
 [![OpenSSL](https://img.shields.io/badge/%E2%80%8D-OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white)](https://www.openssl.org/)
 [![Wireshark](https://img.shields.io/badge/%E2%80%8D-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-[![Yubico](https://img.shields.io/badge/%E2%80%8D-Yubico-84BD00?style=flat-square&logo=yubico&logoColor=white)](https://www.yubico.com/)
-[![Let's Encrypt](https://img.shields.io/badge/%E2%80%8D-Let's%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)](https://letsencrypt.org/)
 [![KeePassXC](https://img.shields.io/badge/%E2%80%8D-KeePassXC-6CAC4D?style=flat-square&logo=keepassxc&logoColor=white)](https://keepassxc.org/)
 
 <!-- 统计 -->
