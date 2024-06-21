@@ -27,6 +27,7 @@
 [![Java](https://img.shields.io/badge/🍵_%E2%80%8B_%E2%80%8B-Java-F44336?style=flat-square&logoColor=white)](https://www.java.com/)
 [![Go](https://img.shields.io/badge/%E2%80%8B-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
 [![Kotlin](https://img.shields.io/badge/%E2%80%8B-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Rust](https://img.shields.io/badge/%E2%80%8D-Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 [![JavaScript](https://img.shields.io/badge/%E2%80%8D-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/javascript)
 [![TypeScript](https://img.shields.io/badge/%E2%80%8D-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
