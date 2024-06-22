@@ -142,6 +142,7 @@
 [![Jest](https://img.shields.io/badge/%E2%80%8D-Jest-C21325?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io/)
 
 [![Postman](https://img.shields.io/badge/%E2%80%8D-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Insomnia](https://img.shields.io/badge/%E2%80%8D-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)](https://insomnia.rest/)
 
 #### Document
 
