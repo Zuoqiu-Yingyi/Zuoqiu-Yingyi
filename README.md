@@ -105,8 +105,10 @@
 #### Code
 
 [![Git](https://img.shields.io/badge/%E2%80%8D-Git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/%E2%80%8D-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![Turbo](https://img.shields.io/badge/%E2%80%8D-Turbo-5CD8E5?style=flat-square&logo=turbo&logoColor=white)](https://turbo.build/)
+
+[![GitHub](https://img.shields.io/badge/%E2%80%8D-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![GitLab](https://img.shields.io/badge/%E2%80%8D-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 
 #### CI/CD
 
