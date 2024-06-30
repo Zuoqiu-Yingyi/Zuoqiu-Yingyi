@@ -116,6 +116,7 @@
 
 [![ESLint](https://img.shields.io/badge/%E2%80%8D-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org/)
 [![Prettier](https://img.shields.io/badge/%E2%80%8D-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)](https://prettier.io/)
+[![EditorConfig](https://img.shields.io/badge/%E2%80%8D-EditorConfig-FEFEFE?style=flat-square&logo=editorconfig&logoColor=white)](https://editorconfig.org/)
 
 #### Package
 
