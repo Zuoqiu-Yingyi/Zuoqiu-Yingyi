@@ -167,6 +167,7 @@
 [![OpenSSL](https://img.shields.io/badge/%E2%80%8D-OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white)](https://www.openssl.org/)
 [![Wireshark](https://img.shields.io/badge/%E2%80%8D-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![KeePassXC](https://img.shields.io/badge/%E2%80%8D-KeePassXC-6CAC4D?style=flat-square&logo=keepassxc&logoColor=white)](https://keepassxc.org/)
+[![Tailscale](https://img.shields.io/badge/%E2%80%8D-Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)](https://tailscale.com/)
 
 <!-- 统计 -->
 
