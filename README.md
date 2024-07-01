@@ -102,6 +102,10 @@
 [![Android Studio](https://img.shields.io/badge/%E2%80%8D-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
 [![Jupyter](https://img.shields.io/badge/%E2%80%8D-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
+#### Browser
+
+[![Firefox](https://img.shields.io/badge/%E2%80%8D-Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://www.mozilla.org/firefox/)
+
 #### Code
 
 [![Git](https://img.shields.io/badge/%E2%80%8D-Git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
