@@ -105,6 +105,7 @@
 #### Browser
 
 [![Firefox](https://img.shields.io/badge/%E2%80%8D-Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://www.mozilla.org/firefox/)
+[![Chromium](https://img.shields.io/badge/%E2%80%8D-Chromium-1A73E8?style=flat-square&logo=googlechrome&logoColor=white)](https://www.chromium.org/Home/)
 
 #### Code
 
