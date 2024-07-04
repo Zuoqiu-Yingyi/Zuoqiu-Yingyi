@@ -96,16 +96,20 @@
 [![GNU Bash](https://img.shields.io/badge/%E2%80%8D-GNU%20Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Nushell](https://img.shields.io/badge/nu_%E2%80%8B-Nushell-4E9A06?style=flat-square&logoColor=white)](https://www.nushell.sh/)
 
-#### IDE
-
-[![Visual Studio Code](https://img.shields.io/badge/%E2%80%8D-Visual_Studio_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Android Studio](https://img.shields.io/badge/%E2%80%8D-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
-[![Jupyter](https://img.shields.io/badge/%E2%80%8D-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
-
 #### Browser
 
 [![Firefox](https://img.shields.io/badge/%E2%80%8D-Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://www.mozilla.org/firefox/)
 [![Chromium](https://img.shields.io/badge/%E2%80%8D-Chromium-1A73E8?style=flat-square&logo=googlechrome&logoColor=white)](https://www.chromium.org/Home/)
+
+#### IDE
+
+[![Android Studio](https://img.shields.io/badge/%E2%80%8D-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
+[![Jupyter](https://img.shields.io/badge/%E2%80%8D-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+#### Editor
+
+[![Visual Studio Code](https://img.shields.io/badge/%E2%80%8D-Visual_Studio_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Vim](https://img.shields.io/badge/%E2%80%8D-Vim-019733?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
 
 #### Code
 
