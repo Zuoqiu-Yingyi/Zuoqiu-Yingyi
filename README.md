@@ -24,7 +24,7 @@
 [![C](https://img.shields.io/badge/%E2%80%8D-C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/)
 [![C++](https://img.shields.io/badge/%E2%80%8D-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/%E2%80%8D-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/🍵_%E2%80%8B_%E2%80%8B-Java-F44336?style=flat-square&logoColor=white)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/🍵_%E2%80%8B_%E2%80%8B-Java-E11F21?style=flat-square&logoColor=white)](https://www.java.com/)
 [![Go](https://img.shields.io/badge/%E2%80%8B-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
 [![Kotlin](https://img.shields.io/badge/%E2%80%8B-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Rust](https://img.shields.io/badge/%E2%80%8D-Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
@@ -103,6 +103,7 @@
 
 #### IDE
 
+[![Visual Studio](https://img.shields.io/badge/%E2%80%8D-Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Android Studio](https://img.shields.io/badge/%E2%80%8D-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
 [![Jupyter](https://img.shields.io/badge/%E2%80%8D-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
