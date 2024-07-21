@@ -149,6 +149,8 @@
 [![Webpack](https://img.shields.io/badge/%E2%80%8D-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
 [![Next.js](https://img.shields.io/badge/%E2%80%8D-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 
+[![Gradle](https://img.shields.io/badge/%E2%80%8D-gradle-02303A?style=flat-square&logo=nextdotjs&logoColor=white)](https://gradle.org/)
+
 #### Test
 
 [![Vitest](https://img.shields.io/badge/%E2%80%8D-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev/)
