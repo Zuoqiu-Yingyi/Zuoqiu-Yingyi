@@ -156,6 +156,9 @@
 
 [![Vitest](https://img.shields.io/badge/%E2%80%8D-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev/)
 [![Jest](https://img.shields.io/badge/%E2%80%8D-Jest-C21325?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io/)
+[![Bun test](https://img.shields.io/badge/%E2%80%8D-Bun_test-000000?style=flat-square&logo=bun&logoColor=white)](https://bun.sh/docs/cli/test)
+
+[![Go testing](https://img.shields.io/badge/%E2%80%8B-Go_testing-00ADD8?style=flat-square&logo=go&logoColor=white)](https://pkg.go.dev/testing)
 
 [![Postman](https://img.shields.io/badge/%E2%80%8D-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Insomnia](https://img.shields.io/badge/%E2%80%8D-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)](https://insomnia.rest/)
