@@ -150,13 +150,15 @@
 [![Webpack](https://img.shields.io/badge/%E2%80%8D-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
 [![Next.js](https://img.shields.io/badge/%E2%80%8D-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 
-[![Gradle](https://img.shields.io/badge/%E2%80%8D-gradle-02303A?style=flat-square&logo=nextdotjs&logoColor=white)](https://gradle.org/)
+[![Gradle](https://img.shields.io/badge/%E2%80%8D-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)](https://gradle.org/)
 
 #### Test
 
 [![Vitest](https://img.shields.io/badge/%E2%80%8D-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev/)
 [![Jest](https://img.shields.io/badge/%E2%80%8D-Jest-C21325?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io/)
 [![Bun test](https://img.shields.io/badge/%E2%80%8D-Bun_test-000000?style=flat-square&logo=bun&logoColor=white)](https://bun.sh/docs/cli/test)
+
+[![JUnit5](https://img.shields.io/badge/%E2%80%8B-JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)](https://junit.org/junit5/)
 
 [![Go testing](https://img.shields.io/badge/%E2%80%8B-Go_testing-00ADD8?style=flat-square&logo=go&logoColor=white)](https://pkg.go.dev/testing)
 
