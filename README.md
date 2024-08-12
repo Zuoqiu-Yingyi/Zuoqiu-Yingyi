@@ -115,18 +115,22 @@
 #### Code
 
 [![Git](https://img.shields.io/badge/%E2%80%8D-Git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+
 [![Turbo](https://img.shields.io/badge/%E2%80%8D-Turbo-5CD8E5?style=flat-square&logo=turbo&logoColor=white)](https://turbo.build/)
 
 [![GitHub](https://img.shields.io/badge/%E2%80%8D-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![GitLab](https://img.shields.io/badge/%E2%80%8D-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 
-#### CI/CD
-
-[![GitHub Actions](https://img.shields.io/badge/%E2%80%8D-GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+#### Lint
 
 [![ESLint](https://img.shields.io/badge/%E2%80%8D-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org/)
-[![Prettier](https://img.shields.io/badge/%E2%80%8D-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)](https://prettier.io/)
+[![commitlint](https://img.shields.io/badge/%E2%80%8D-commitlint-000000?style=flat-square&logo=eslint&logoColor=white)](https://commitlint.js.org/)
+
+#### Format
+
 [![EditorConfig](https://img.shields.io/badge/%E2%80%8D-EditorConfig-FEFEFE?style=flat-square&logo=editorconfig&logoColor=white)](https://editorconfig.org/)
+[![Prettier](https://img.shields.io/badge/%E2%80%8D-Prettier-F7B93E?style=flat-square&logo=commitlint&logoColor=white)](https://prettier.io/)
+<!-- TODO: Clang-Format -->
 
 #### Package
 
@@ -137,6 +141,11 @@
 [![pipx](https://img.shields.io/badge/%E2%80%8D-pipx-2CFFAA?style=flat-square&logo=pipx&logoColor=white)](https://pipx.pypa.io)
 [![Poetry](https://img.shields.io/badge/%E2%80%8D-Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white)](https://python-poetry.org/)
 [![Anaconda](https://img.shields.io/badge/%E2%80%8D-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)](https://pnpm.io/)
+
+#### Compiler
+
+<!-- TODO: LLVM -->
+<!-- TODO: MinGW-w64 -->
 
 #### Runtime
 
@@ -174,6 +183,11 @@
 [![Docker](https://img.shields.io/badge/%E2%80%8D-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Nginx](https://img.shields.io/badge/%E2%80%8D-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org/)
 [![MinIO](https://img.shields.io/badge/%E2%80%8D-MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)](https://min.io/)
+
+#### CI/CD
+
+[![GitHub Actions](https://img.shields.io/badge/%E2%80%8D-GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![GitLab Pipelines](https://img.shields.io/badge/%E2%80%8D-GitLab_Pipelines-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://about.gitlab.com/topics/ci-cd/cicd-pipeline/)
 
 #### Security
 
