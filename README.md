@@ -124,13 +124,19 @@
 #### Lint
 
 [![ESLint](https://img.shields.io/badge/%E2%80%8D-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org/)
+
+[![Ktlint](https://img.shields.io/badge/%E2%80%8D-Ktlint-E92063?style=flat-square&logoColor=white)](https://pinterest.github.io/ktlint/)
+
 [![commitlint](https://img.shields.io/badge/%E2%80%8D-commitlint-000000?style=flat-square&logo=eslint&logoColor=white)](https://commitlint.js.org/)
 
 #### Format
 
 [![EditorConfig](https://img.shields.io/badge/%E2%80%8D-EditorConfig-FEFEFE?style=flat-square&logo=editorconfig&logoColor=white)](https://editorconfig.org/)
-[![Prettier](https://img.shields.io/badge/%E2%80%8D-Prettier-F7B93E?style=flat-square&logo=commitlint&logoColor=white)](https://prettier.io/)
-<!-- TODO: Clang-Format -->
+
+[![Prettier](https://img.shields.io/badge/%E2%80%8D-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)](https://prettier.io/)
+[![ESLint Stylistic](https://img.shields.io/badge/%E2%80%8D-ESLint_Stylistic-32A9C3?style=flat-square&logoColor=white)](https://eslint.style/)
+
+[![ClangFormat](https://img.shields.io/badge/%E2%80%8D-ClangFormat-262D3A?style=flat-square&logo=llvm&logoColor=white)](https://clang.llvm.org/docs/ClangFormat.html)
 
 #### Package
 
