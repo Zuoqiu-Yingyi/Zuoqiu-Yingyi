@@ -175,6 +175,7 @@
 [![Bun test](https://img.shields.io/badge/%E2%80%8D-Bun_test-000000?style=flat-square&logo=bun&logoColor=white)](https://bun.sh/docs/cli/test)
 
 [![JUnit5](https://img.shields.io/badge/%E2%80%8B-JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+[![kotlin.test](https://img.shields.io/badge/%E2%80%8B-kotlin.test-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/api/latest/kotlin.test/)
 
 [![Go testing](https://img.shields.io/badge/%E2%80%8B-Go_testing-00ADD8?style=flat-square&logo=go&logoColor=white)](https://pkg.go.dev/testing)
 
