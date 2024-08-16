@@ -24,7 +24,7 @@
 [![C](https://img.shields.io/badge/%E2%80%8D-C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/)
 [![C++](https://img.shields.io/badge/%E2%80%8D-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/%E2%80%8D-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/🍵_%E2%80%8B_%E2%80%8B-Java-E11F21?style=flat-square&logoColor=white)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/J_%E2%80%8B-Java-E11F21?style=flat-square&logoColor=white)](https://www.java.com/)
 [![Go](https://img.shields.io/badge/%E2%80%8B-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
 [![Kotlin](https://img.shields.io/badge/%E2%80%8B-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Rust](https://img.shields.io/badge/%E2%80%8D-Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
@@ -126,7 +126,7 @@
 
 [![ESLint](https://img.shields.io/badge/%E2%80%8D-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org/)
 
-[![Ktlint](https://img.shields.io/badge/%E2%80%8D-Ktlint-E92063?style=flat-square&logoColor=white)](https://pinterest.github.io/ktlint/)
+[![Ktlint](https://img.shields.io/badge/K_%E2%80%8D-Ktlint-E92063?style=flat-square&logoColor=white)](https://pinterest.github.io/ktlint/)
 
 [![commitlint](https://img.shields.io/badge/%E2%80%8D-commitlint-000000?style=flat-square&logo=eslint&logoColor=white)](https://commitlint.js.org/)
 
@@ -135,7 +135,9 @@
 [![EditorConfig](https://img.shields.io/badge/%E2%80%8D-EditorConfig-FEFEFE?style=flat-square&logo=editorconfig&logoColor=white)](https://editorconfig.org/)
 
 [![Prettier](https://img.shields.io/badge/%E2%80%8D-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)](https://prettier.io/)
-[![ESLint Stylistic](https://img.shields.io/badge/%E2%80%8D-ESLint_Stylistic-32A9C3?style=flat-square&logoColor=white)](https://eslint.style/)
+[![ESLint Stylistic](https://img.shields.io/badge/E_%E2%80%8D-ESLint_Stylistic-32A9C3?style=flat-square&logoColor=white)](https://eslint.style/)
+
+[![Go gofmt](https://img.shields.io/badge/%E2%80%8B-Go_gofmt-00ADD8?style=flat-square&logo=go&logoColor=white)](https://pkg.go.dev/cmd/gofmt)
 
 [![ClangFormat](https://img.shields.io/badge/%E2%80%8D-ClangFormat-262D3A?style=flat-square&logo=llvm&logoColor=white)](https://clang.llvm.org/docs/ClangFormat.html)
 
@@ -148,6 +150,7 @@
 [![pipx](https://img.shields.io/badge/%E2%80%8D-pipx-2CFFAA?style=flat-square&logo=pipx&logoColor=white)](https://pipx.pypa.io)
 [![Poetry](https://img.shields.io/badge/%E2%80%8D-Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white)](https://python-poetry.org/)
 [![Anaconda](https://img.shields.io/badge/%E2%80%8D-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)](https://pnpm.io/)
+[![Rye](https://img.shields.io/badge/%E2%80%8D-Rye-000000?style=flat-square&logo=rye&logoColor=white)](https://rye.astral.sh/)
 
 #### Compiler
 
