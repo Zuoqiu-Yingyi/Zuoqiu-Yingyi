@@ -128,7 +128,9 @@
 
 [![Ktlint](https://img.shields.io/badge/K_%E2%80%8D-Ktlint-E92063?style=flat-square&logoColor=white)](https://pinterest.github.io/ktlint/)
 
-[![commitlint](https://img.shields.io/badge/%E2%80%8D-commitlint-000000?style=flat-square&logo=eslint&logoColor=white)](https://commitlint.js.org/)
+[![Ruff](https://img.shields.io/badge/%E2%80%8D-Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=white)](https://docs.astral.sh/ruff/)
+
+[![commitlint](https://img.shields.io/badge/%E2%80%8D_-commitlint-000000?style=flat-square&logo=commitlint&logoColor=white)](https://commitlint.js.org/)
 
 #### Format
 
