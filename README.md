@@ -141,6 +141,8 @@
 
 [![Go gofmt](https://img.shields.io/badge/%E2%80%8B-Go_gofmt-00ADD8?style=flat-square&logo=go&logoColor=white)](https://pkg.go.dev/cmd/gofmt)
 
+[![Rustfmt](https://img.shields.io/badge/%E2%80%8D-Rustfmt-000000?style=flat-square&logo=rust&logoColor=white)](https://rust-lang.github.io/rustfmt/)
+
 [![ClangFormat](https://img.shields.io/badge/%E2%80%8D-ClangFormat-262D3A?style=flat-square&logo=llvm&logoColor=white)](https://clang.llvm.org/docs/ClangFormat.html)
 
 #### Package
@@ -186,6 +188,8 @@
 [![kotlin.test](https://img.shields.io/badge/%E2%80%8B-kotlin.test-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/api/latest/kotlin.test/)
 
 [![Go testing](https://img.shields.io/badge/%E2%80%8B-Go_testing-00ADD8?style=flat-square&logo=go&logoColor=white)](https://pkg.go.dev/testing)
+
+[![Cargo test](https://img.shields.io/badge/%E2%80%8D-Cargo_test-000000?style=flat-square&logo=rust&logoColor=white)](https://doc.rust-lang.org/cargo/guide/tests.html)
 
 [![Postman](https://img.shields.io/badge/%E2%80%8D-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Insomnia](https://img.shields.io/badge/%E2%80%8D-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)](https://insomnia.rest/)
