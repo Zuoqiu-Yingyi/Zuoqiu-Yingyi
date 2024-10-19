@@ -61,6 +61,8 @@
 [![Fastify](https://img.shields.io/badge/%E2%80%8D-Fastify-000000?style=flat-square&logo=fastify&logoColor=white)](https://fastify.dev/)
 [![tRPC](https://img.shields.io/badge/%E2%80%8D-tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)](https://trpc.io/)
 
+[![Redux](https://img.shields.io/badge/%E2%80%8D-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org/)
+
 [![Electron](https://img.shields.io/badge/%E2%80%8D-Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
 
 #### Native
