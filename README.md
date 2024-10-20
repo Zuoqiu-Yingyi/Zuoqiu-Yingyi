@@ -62,6 +62,7 @@
 [![tRPC](https://img.shields.io/badge/%E2%80%8D-tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)](https://trpc.io/)
 
 [![Redux](https://img.shields.io/badge/%E2%80%8D-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org/)
+[![MobX](https://img.shields.io/badge/%E2%80%8D-MobX-FF9955?style=flat-square&logo=mobx&logoColor=white)](https://mobx.js.org/)
 
 [![Electron](https://img.shields.io/badge/%E2%80%8D-Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
 
