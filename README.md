@@ -63,7 +63,7 @@
 
 [![Redux](https://img.shields.io/badge/%E2%80%8D-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org/)
 [![MobX](https://img.shields.io/badge/%E2%80%8D-MobX-FF9955?style=flat-square&logo=mobx&logoColor=white)](https://mobx.js.org/)
-[![MobX-State-Tree](https://img.shields.io/badge/%E2%80%8D-MobX-State-Tree-FF7102?style=flat-square&logo=mobxstatetree&logoColor=white)](https://mobx-state-tree.js.org/)
+[![MobX-State-Tree](https://img.shields.io/badge/%E2%80%8D-MobX−State−Tree-FF7102?style=flat-square&logo=mobxstatetree&logoColor=white)](https://mobx-state-tree.js.org/)
 
 [![Electron](https://img.shields.io/badge/%E2%80%8D-Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
 
