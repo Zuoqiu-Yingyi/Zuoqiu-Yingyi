@@ -65,6 +65,7 @@
 [![MobX](https://img.shields.io/badge/%E2%80%8D-MobX-FF9955?style=flat-square&logo=mobx&logoColor=white)](https://mobx.js.org/)
 [![MobX-State-Tree](https://img.shields.io/badge/%E2%80%8D-MobX−State−Tree-FF7102?style=flat-square&logo=mobxstatetree&logoColor=white)](https://mobx-state-tree.js.org/)
 [![Recoil](https://img.shields.io/badge/%E2%80%8D-Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white)](https://recoiljs.org/)
+[![Zustand](https://img.shields.io/badge/Z_%E2%80%8D-Zustand-443E38?style=flat-square&logoColor=white)](https://zustand-demo.pmnd.rs/)
 
 [![Electron](https://img.shields.io/badge/%E2%80%8D-Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
 
