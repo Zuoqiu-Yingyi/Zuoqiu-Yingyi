@@ -164,7 +164,7 @@
 
 #### Compiler
 
-<!-- TODO: LLVM -->
+[![LLVM](https://img.shields.io/badge/%E2%80%8D-LLVM-262D3A?style=flat-square&logo=llvm&logoColor=white)](https://llvm.org/)
 <!-- TODO: MinGW-w64 -->
 
 #### Runtime
