@@ -63,7 +63,7 @@
 
 [![Redux](https://img.shields.io/badge/%E2%80%8D-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org/)
 [![MobX](https://img.shields.io/badge/%E2%80%8D-MobX-FF9955?style=flat-square&logo=mobx&logoColor=white)](https://mobx.js.org/)
-[![MobX-State-Tree](https://img.shields.io/badge/%E2%80%8D-MobX−State−Tree-FF7102?style=flat-square&logo=mobxstatetree&logoColor=white)](https://mobx-state-tree.js.org/)
+[![MobX-State-Tree](https://img.shields.io/badge/%E2%80%8D-MobX--State--Tree-FF7102?style=flat-square&logo=mobxstatetree&logoColor=white)](https://mobx-state-tree.js.org/)
 [![Recoil](https://img.shields.io/badge/%E2%80%8D-Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white)](https://recoiljs.org/)
 [![Zustand](https://img.shields.io/badge/Z_%E2%80%8D-Zustand-443E38?style=flat-square&logoColor=white)](https://zustand-demo.pmnd.rs/)
 
@@ -165,12 +165,12 @@
 #### Compiler
 
 [![LLVM](https://img.shields.io/badge/%E2%80%8D-LLVM-262D3A?style=flat-square&logo=llvm&logoColor=white)](https://llvm.org/)
-[![MinGW-w64](https://img.shields.io/badge/%E2%80%8D-MinGW−w64-000000?style=flat-square&logo=mingww64&logoColor=white)](https://www.mingw-w64.org/)
+[![MinGW-w64](https://img.shields.io/badge/%E2%80%8D-MinGW--w64-000000?style=flat-square&logo=mingww64&logoColor=white)](https://www.mingw-w64.org/)
 
 #### Runtime
 
 [![Node.js](https://img.shields.io/badge/%E2%80%8D-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![ts-node](https://img.shields.io/badge/%E2%80%8D-ts−node-3178C6?style=flat-square&logo=tsnode&logoColor=white)](https://typestrong.org/ts-node/)
+[![ts-node](https://img.shields.io/badge/%E2%80%8D-ts--node-3178C6?style=flat-square&logo=tsnode&logoColor=white)](https://typestrong.org/ts-node/)
 [![Bun](https://img.shields.io/badge/%E2%80%8D-Bun-000000?style=flat-square&logo=bun&logoColor=white)](https://bun.sh/)
 
 #### Build
