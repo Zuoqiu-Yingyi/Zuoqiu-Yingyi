@@ -171,6 +171,7 @@
 
 [![Node.js](https://img.shields.io/badge/%E2%80%8D-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![ts-node](https://img.shields.io/badge/%E2%80%8D-ts--node-3178C6?style=flat-square&logo=tsnode&logoColor=white)](https://typestrong.org/ts-node/)
+[![tsx](https://img.shields.io/badge/t_%E2%80%8D-tsx-3178C6?style=flat-square&logoColor=white)](https://tsx.is/)
 [![Bun](https://img.shields.io/badge/%E2%80%8D-Bun-000000?style=flat-square&logo=bun&logoColor=white)](https://bun.sh/)
 
 #### Build
