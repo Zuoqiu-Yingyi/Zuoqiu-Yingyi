@@ -59,7 +59,9 @@
 [![Gin](https://img.shields.io/badge/%E2%80%8D-Gin-008ECF?style=flat-square&logo=gin&logoColor=white)](https://gin-gonic.com/)
 [![Express](https://img.shields.io/badge/%E2%80%8D-Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
 [![Fastify](https://img.shields.io/badge/%E2%80%8D-Fastify-000000?style=flat-square&logo=fastify&logoColor=white)](https://fastify.dev/)
+
 [![tRPC](https://img.shields.io/badge/%E2%80%8D-tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)](https://trpc.io/)
+[![GraphQL](https://img.shields.io/badge/%E2%80%8D-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)
 
 [![Redux](https://img.shields.io/badge/%E2%80%8D-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org/)
 [![MobX](https://img.shields.io/badge/%E2%80%8D-MobX-FF9955?style=flat-square&logo=mobx&logoColor=white)](https://mobx.js.org/)
