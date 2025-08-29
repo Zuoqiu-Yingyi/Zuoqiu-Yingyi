@@ -121,6 +121,7 @@
 
 [![Visual Studio Code](https://img.shields.io/badge/%E2%80%8D-Visual_Studio_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Vim](https://img.shields.io/badge/%E2%80%8D-Vim-019733?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
+[![Cursor](https://img.shields.io/badge/%E2%80%8D-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.com/)
 
 #### Code
 
