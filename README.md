@@ -90,6 +90,10 @@
 
 [![DBeaver](https://img.shields.io/badge/%E2%80%8D-DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
 
+### AI
+
+[![Model Context Protocol](https://img.shields.io/badge/%E2%80%8D-Model_Context_Protocol-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
+
 <!-- 开发运维 -->
 
 ### DevOps
