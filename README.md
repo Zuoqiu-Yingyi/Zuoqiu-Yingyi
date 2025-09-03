@@ -93,6 +93,7 @@
 ### AI
 
 [![Model Context Protocol](https://img.shields.io/badge/%E2%80%8D-Model_Context_Protocol-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
+[![Ollama](https://img.shields.io/badge/%E2%80%8D-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com/)
 
 <!-- 开发运维 -->
 
