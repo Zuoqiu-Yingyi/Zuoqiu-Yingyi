@@ -95,6 +95,8 @@
 [![Model Context Protocol](https://img.shields.io/badge/%E2%80%8D-Model_Context_Protocol-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
 [![Ollama](https://img.shields.io/badge/%E2%80%8D-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com/)
 
+[![n8n](https://img.shields.io/badge/%E2%80%8D-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
+
 <!-- 开发运维 -->
 
 ### DevOps
