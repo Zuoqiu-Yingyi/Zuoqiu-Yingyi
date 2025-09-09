@@ -106,6 +106,7 @@
 [![Windows](https://img.shields.io/badge/%E2%80%8D-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![Linux](https://img.shields.io/badge/%E2%80%8D-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
 [![Android](https://img.shields.io/badge/%E2%80%8D-Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
+[![iOS](https://img.shields.io/badge/%E2%80%8D-iOS-000000?style=flat-square&logo=ios&logoColor=white)](https://www.apple.com/ios/)
 
 #### Shell
 
