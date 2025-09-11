@@ -110,6 +110,8 @@
 [![Android](https://img.shields.io/badge/%E2%80%8D-Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
 [![iOS](https://img.shields.io/badge/%E2%80%8D-iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/ios/)
 
+[![Arch Linux](https://img.shields.io/badge/%E2%80%8D-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org/)
+
 #### Shell
 
 [![PowerShell](https://img.shields.io/badge/%E2%80%8D-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://microsoft.com/PowerShell)
