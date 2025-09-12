@@ -111,6 +111,7 @@
 [![iOS](https://img.shields.io/badge/%E2%80%8D-iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/ios/)
 
 [![Arch Linux](https://img.shields.io/badge/%E2%80%8D-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org/)
+[![Ubuntu](https://img.shields.io/badge/%E2%80%8D-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 #### Shell
 
