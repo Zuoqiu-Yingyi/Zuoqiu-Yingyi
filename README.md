@@ -225,6 +225,8 @@
 #### Deploy
 
 [![Docker](https://img.shields.io/badge/%E2%80%8D-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Watchtower](https://img.shields.io/badge/%E2%80%8D-Watchtower-416271?style=flat-square&logo=watchtower&logoColor=white)](https://containrrr.dev/watchtower/)
+
 [![Nginx](https://img.shields.io/badge/%E2%80%8D-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org/)
 [![MinIO](https://img.shields.io/badge/%E2%80%8D-MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)](https://min.io/)
 
