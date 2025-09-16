@@ -112,6 +112,7 @@
 
 [![Arch Linux](https://img.shields.io/badge/%E2%80%8D-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org/)
 [![Ubuntu](https://img.shields.io/badge/%E2%80%8D-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![OpenWrt](https://img.shields.io/badge/%E2%80%8D-OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=white)](https://openwrt.org/)
 
 #### Shell
 
