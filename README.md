@@ -114,6 +114,8 @@
 [![Ubuntu](https://img.shields.io/badge/%E2%80%8D-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![OpenWrt](https://img.shields.io/badge/%E2%80%8D-OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=white)](https://openwrt.org/)
 
+[![WSL](https://img.shields.io/badge/%E2%80%8D-WSL-FCC624?style=flat-square&logo=linux&logoColor=white)](https://learn.microsoft.com/en-us/windows/wsl/)
+
 #### Shell
 
 [![PowerShell](https://img.shields.io/badge/%E2%80%8D-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://microsoft.com/PowerShell)
