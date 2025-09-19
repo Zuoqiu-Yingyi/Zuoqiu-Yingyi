@@ -114,6 +114,10 @@
 [![Ubuntu](https://img.shields.io/badge/%E2%80%8D-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![OpenWrt](https://img.shields.io/badge/%E2%80%8D-OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=white)](https://openwrt.org/)
 
+#### Virtual Environment
+
+[![Proxmox VE](https://img.shields.io/badge/%E2%80%8D-Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com/en/proxmox-ve)
+
 [![WSL](https://img.shields.io/badge/%E2%80%8D-WSL-FCC624?style=flat-square&logo=linux&logoColor=white)](https://learn.microsoft.com/en-us/windows/wsl/)
 
 #### Shell
