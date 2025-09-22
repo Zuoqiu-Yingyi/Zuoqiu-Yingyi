@@ -117,6 +117,7 @@
 #### Virtual Environment
 
 [![Proxmox VE](https://img.shields.io/badge/%E2%80%8D-Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com/en/proxmox-ve)
+[![VMware](https://img.shields.io/badge/%E2%80%8D-VMware-607078?style=flat-square&logo=vmware&logoColor=white)](https://www.vmware.com/)
 
 [![WSL](https://img.shields.io/badge/%E2%80%8D-WSL-FCC624?style=flat-square&logo=linux&logoColor=white)](https://learn.microsoft.com/en-us/windows/wsl/)
 
