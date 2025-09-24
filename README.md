@@ -180,6 +180,8 @@
 
 #### Package
 
+[![nvm](https://img.shields.io/badge/%E2%80%8D-nvm-F4DD4B?style=flat-square&logo=nvm&logoColor=white)](https://github.com/nvm-sh/nvm)
+
 [![npm](https://img.shields.io/badge/%E2%80%8D-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![pnpm](https://img.shields.io/badge/%E2%80%8D-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)](https://pnpm.io/)
 
