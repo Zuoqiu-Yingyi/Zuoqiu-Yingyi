@@ -103,7 +103,7 @@
 
 #### OS
 
-[![Windows](https://img.shields.io/badge/%E2%80%8D-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![Windows](https://img.shields.io/badge/W_%E2%80%8D-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![Linux](https://img.shields.io/badge/%E2%80%8D-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
 [![macOS](https://img.shields.io/badge/%E2%80%8D-macOS-000000?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 
@@ -125,7 +125,7 @@
 
 #### Shell
 
-[![PowerShell](https://img.shields.io/badge/%E2%80%8D-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://microsoft.com/PowerShell)
+[![PowerShell](https://img.shields.io/badge/pwsh_%E2%80%8D-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://microsoft.com/PowerShell)
 [![GNU Bash](https://img.shields.io/badge/%E2%80%8D-GNU%20Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Nushell](https://img.shields.io/badge/nu_%E2%80%8B-Nushell-4E9A06?style=flat-square&logoColor=white)](https://www.nushell.sh/)
 
@@ -136,15 +136,15 @@
 
 #### IDE
 
-[![Visual Studio](https://img.shields.io/badge/%E2%80%8D-Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![Visual Studio](https://img.shields.io/badge/VS_%E2%80%8D-Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Android Studio](https://img.shields.io/badge/%E2%80%8D-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
 [![Jupyter](https://img.shields.io/badge/%E2%80%8D-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 #### Editor
 
-[![Visual Studio Code](https://img.shields.io/badge/%E2%80%8D-Visual_Studio_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/VSC_%E2%80%8D-Visual_Studio_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Vim](https://img.shields.io/badge/%E2%80%8D-Vim-019733?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
-[![Cursor](https://img.shields.io/badge/%E2%80%8D-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.com/)
+[![Cursor](https://img.shields.io/badge/C_%E2%80%8D-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.com/)
 
 #### Code
 
