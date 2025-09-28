@@ -151,6 +151,7 @@
 [![Git](https://img.shields.io/badge/%E2%80%8D-Git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 [![Turbo](https://img.shields.io/badge/%E2%80%8D-Turbo-5CD8E5?style=flat-square&logo=turbo&logoColor=white)](https://turbo.build/)
+[![Rush](https://img.shields.io/badge/R_%E2%80%8D-Rush-BC5835?style=flat-square&logo=rush&logoColor=white)](https://rushjs.io/)
 
 [![GitHub](https://img.shields.io/badge/%E2%80%8D-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![GitLab](https://img.shields.io/badge/%E2%80%8D-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
