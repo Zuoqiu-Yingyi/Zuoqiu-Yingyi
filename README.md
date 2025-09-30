@@ -182,6 +182,8 @@
 #### Environment Manager
 
 [![nvm](https://img.shields.io/badge/%E2%80%8D-nvm-F4DD4B?style=flat-square&logo=nvm&logoColor=white)](https://github.com/nvm-sh/nvm)
+[![fnm](https://img.shields.io/badge/%E2%80%8D-fnm-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://fnm.vercel.app/)
+
 [![gvm](https://img.shields.io/badge/%E2%80%8D-gvm-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/moovweb/gvm)
 
 #### Package
