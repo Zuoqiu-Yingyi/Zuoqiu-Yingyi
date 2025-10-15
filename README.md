@@ -267,6 +267,10 @@
 [![KeePassXC](https://img.shields.io/badge/%E2%80%8D-KeePassXC-6CAC4D?style=flat-square&logo=keepassxc&logoColor=white)](https://keepassxc.org/)
 [![Tailscale](https://img.shields.io/badge/%E2%80%8D-Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)](https://tailscale.com/)
 
+#### Other
+
+[![.ENV](https://img.shields.io/badge/%E2%80%8D-.ENV-ECD53F?style=flat-square&logo=dotenv&logoColor=white)](https://www.dotenv.org/)
+
 <!-- 统计 -->
 
 ## Stats
