@@ -98,6 +98,7 @@
 [![Ollama](https://img.shields.io/badge/%E2%80%8D-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com/)
 
 [![n8n](https://img.shields.io/badge/%E2%80%8D-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
+[![Dify](https://img.shields.io/badge/D_%E2%80%8D-Dify-0033ff?style=flat-square&logo=dify&logoColor=white)](https://dify.ai/)
 
 <!-- 开发运维 -->
 
