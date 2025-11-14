@@ -94,11 +94,13 @@
 
 ### AI
 
-[![Model Context Protocol](https://img.shields.io/badge/%E2%80%8D-Model_Context_Protocol-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
 [![Ollama](https://img.shields.io/badge/%E2%80%8D-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com/)
 
 [![n8n](https://img.shields.io/badge/%E2%80%8D-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
 [![Dify](https://img.shields.io/badge/D_%E2%80%8D-Dify-0033ff?style=flat-square&logo=dify&logoColor=white)](https://dify.ai/)
+
+[![Model Context Protocol](https://img.shields.io/badge/%E2%80%8D-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
+[![Agent User Interaction Protocol](https://img.shields.io/badge/A_%E2%80%8D-AG--UI-000000?style=flat-square&logo=agui&logoColor=white)](https://ag-ui.com/)
 
 <!-- 开发运维 -->
 
