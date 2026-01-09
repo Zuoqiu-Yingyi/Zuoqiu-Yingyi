@@ -101,6 +101,7 @@
 
 [![Model Context Protocol](https://img.shields.io/badge/%E2%80%8D-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
 [![Agent User Interaction Protocol](https://img.shields.io/badge/A_%E2%80%8D-AG--UI-000000?style=flat-square&logo=agui&logoColor=white)](https://ag-ui.com/)
+[![Agent to User Interaction Protocol](https://img.shields.io/badge/A_%E2%80%8D-A2UI-000000?style=flat-square&logo=a2ui&logoColor=white)](https://a2ui.org/)
 
 <!-- 开发运维 -->
 
