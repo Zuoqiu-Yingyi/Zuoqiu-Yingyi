@@ -15,7 +15,7 @@
 
 <!-- 技术栈 -->
 
-## Teck Stack
+## Tech Stack
 
 <!-- 语言 -->
 
