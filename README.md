@@ -274,6 +274,7 @@
 #### Other
 
 [![.ENV](https://img.shields.io/badge/%E2%80%8D-.ENV-ECD53F?style=flat-square&logo=dotenv&logoColor=white)](https://www.dotenv.org/)
+[![RustDesk](https://img.shields.io/badge/%E2%80%8D-RustDesk-024EFF?style=flat-square&logo=rustdesk&logoColor=white)](https://rustdesk.com/)
 
 <!-- 统计 -->
 
