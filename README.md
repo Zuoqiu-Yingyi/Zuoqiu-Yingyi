@@ -103,6 +103,8 @@
 [![Agent User Interaction Protocol](https://img.shields.io/badge/A_%E2%80%8D-AG--UI-000000?style=flat-square&logo=agui&logoColor=white)](https://ag-ui.com/)
 [![Agent to User Interaction Protocol](https://img.shields.io/badge/A_%E2%80%8D-A2UI-000000?style=flat-square&logo=a2ui&logoColor=white)](https://a2ui.org/)
 
+[![OpenRouter](https://img.shields.io/badge/A_%E2%80%8D-OpenRouter-94A3B8?style=flat-square&logo=openrouter&logoColor=white)](https://openrouter.ai/)
+
 <!-- 开发运维 -->
 
 ### DevOps
