@@ -277,6 +277,7 @@
 
 [![.ENV](https://img.shields.io/badge/%E2%80%8D-.ENV-ECD53F?style=flat-square&logo=dotenv&logoColor=white)](https://www.dotenv.org/)
 [![RustDesk](https://img.shields.io/badge/%E2%80%8D-RustDesk-024EFF?style=flat-square&logo=rustdesk&logoColor=white)](https://rustdesk.com/)
+[![AdGuard](https://img.shields.io/badge/%E2%80%8D-AdGuard-68BC71?style=flat-square&logo=adguard&logoColor=white)](https://adguard.com/)
 
 <!-- 统计 -->
 
