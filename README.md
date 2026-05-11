@@ -177,9 +177,10 @@
 #### Format
 
 [![EditorConfig](https://img.shields.io/badge/%E2%80%8D-EditorConfig-FEFEFE?style=flat-square&logo=editorconfig&logoColor=white)](https://editorconfig.org/)
+[![dprint](https://img.shields.io/badge/E_%E2%80%8D-dprint-000000?style=flat-square&logoColor=white)](https://dprint.dev/)
 
 [![Prettier](https://img.shields.io/badge/%E2%80%8D-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)](https://prettier.io/)
-[![ESLint Stylistic](https://img.shields.io/badge/E_%E2%80%8D-ESLint_Stylistic-32A9C3?style=flat-square&logoColor=white)](https://eslint.style/)
+[![ESLint Stylistic](https://img.shields.io/badge/E_%E2%80%8D-ESLint_Stylistic-000000?style=flat-square&logoColor=white)](https://eslint.style/)
 
 [![Go gofmt](https://img.shields.io/badge/%E2%80%8B-Go_gofmt-00ADD8?style=flat-square&logo=go&logoColor=white)](https://pkg.go.dev/cmd/gofmt)
 
