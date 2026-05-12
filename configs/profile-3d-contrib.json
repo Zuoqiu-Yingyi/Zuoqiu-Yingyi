@@ -4,8 +4,8 @@
         "fileName": "profile-custom-dark-blud.svg",
         "backgroundColor": "#2E3440",
         "foregroundColor": "#D8DEE9",
-        "strongColor": "#7490AC",
-        "weakColor": "gray",
+        "strongColor": "#80A0C0",
+        "weakColor": "#576A80",
         "radarColor": "#7490AC",
         "growingAnimation": true,
         "contribColors": [
@@ -21,8 +21,8 @@
         "fileName": "profile-custom-light-green.svg",
         "backgroundColor": "#FFFFFF",
         "foregroundColor": "#363636",
-        "strongColor": "#8F72DB",
-        "weakColor": "gray",
+        "strongColor": "#7958D5",
+        "weakColor": "#BCABEA",
         "radarColor": "#8F72DB",
         "growingAnimation": true,
         "contribColors": [
@@ -34,13 +34,33 @@
         ]
     },
     {
+        "type": "rainbow",
+        "fileName": "profile-custom-dark-rainbow.svg",
+        "backgroundColor": "#2E3440",
+        "foregroundColor": "#D8DEE9",
+        "strongColor": "#80A0C0",
+        "weakColor": "#576A80",
+        "radarColor": "#7490AC",
+        "growingAnimation": true,
+        "saturation": "50%",
+        "contribLightness": [
+            "20%",
+            "30%",
+            "35%",
+            "40%",
+            "50%"
+        ],
+        "duration": "10s",
+        "hueRatio": -7
+    },
+    {
         "type": "season",
         "fileName": "profile-custom-light-season.svg",
         "backgroundColor": "#FFFFFF",
         "foregroundColor": "#363636",
-        "strongColor": "#7A58D5",
-        "weakColor": "gray",
-        "radarColor": "#7A58D5",
+        "strongColor": "#7958D5",
+        "weakColor": "#BCABEA",
+        "radarColor": "#8F72DB",
         "growingAnimation": true,
         "contribColors1": [
             "#efefef",

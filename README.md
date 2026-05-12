@@ -288,10 +288,15 @@
 <!-- REF https://github.com/anuraghazra/github-readme-stats -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuoqiu-Yingyi&layout=compact&langs_count=8&show_icons=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
+    <!-- <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuoqiu-Yingyi&layout=compact&langs_count=20&show_icons=true&hide=jupyter%20notebook&theme=buefy">
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuoqiu-Yingyi&layout=compact&langs_count=20&show_icons=true&hide=jupyter%20notebook&theme=nord">
         <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuoqiu-Yingyi&layout=compact&langs_count=20&show_icons=true&hide=jupyter%20notebook&theme=buefy">
+    </picture> -->
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="./profile-stats/top-langs-light.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/top-langs-dark.svg">
+        <img alt="Top Langs" src="./profile-stats/top-langs-light.svg">
     </picture>
 </a>
 <br />
@@ -299,10 +304,15 @@
 <!-- 统计信息 -->
 <!-- REF https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
+    <!-- <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Zuoqiu-Yingyi&show_icons=true&include_all_commits=true&theme=buefy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Zuoqiu-Yingyi&show_icons=true&include_all_commits=true&theme=nord&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-        <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Zuoqiu-Yingyi&show_icons=true&include_all_commits=true&theme=buefy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+        <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Zuoqiu-Yingyi&show_icons=true&include_all_commits=true&theme=buefy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+    </picture> -->
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="./profile-stats/stats-light.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/stats-dark.svg">
+        <img alt="GitHub stats" src="./profile-stats/stats-light.svg">
     </picture>
 </a>
 <br />
@@ -334,8 +344,8 @@
 <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-custom-light-season.svg">
-        <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-custom-dark-blud.svg">
-        <img alt="contribution-3D" src="./profile-3d-contrib/profile-custom-light-green.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-custom-dark-rainbow.svg">
+        <img alt="GitHub Profile 3D Contrib" src="./profile-3d-contrib/profile-custom-light-green.svg">
     </picture>
 </a>
 <br />
