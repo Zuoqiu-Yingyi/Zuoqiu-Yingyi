@@ -97,13 +97,13 @@
 [![Ollama](https://img.shields.io/badge/%E2%80%8D-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com/)
 
 [![n8n](https://img.shields.io/badge/%E2%80%8D-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
-[![Dify](https://img.shields.io/badge/D_%E2%80%8D-Dify-0033ff?style=flat-square&logo=dify&logoColor=white)](https://dify.ai/)
+[![Dify](https://img.shields.io/badge/%E2%80%8D-Dify-0033ff?style=flat-square&logo=dify&logoColor=white)](https://dify.ai/)
 
 [![Model Context Protocol](https://img.shields.io/badge/%E2%80%8D-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
 [![Agent User Interaction Protocol](https://img.shields.io/badge/A_%E2%80%8D-AG--UI-000000?style=flat-square&logo=agui&logoColor=white)](https://ag-ui.com/)
 [![Agent to User Interaction Protocol](https://img.shields.io/badge/A_%E2%80%8D-A2UI-000000?style=flat-square&logo=a2ui&logoColor=white)](https://a2ui.org/)
 
-[![OpenRouter](https://img.shields.io/badge/A_%E2%80%8D-OpenRouter-94A3B8?style=flat-square&logo=openrouter&logoColor=white)](https://openrouter.ai/)
+[![OpenRouter](https://img.shields.io/badge/%E2%80%8D-OpenRouter-94A3B8?style=flat-square&logo=openrouter&logoColor=white)](https://openrouter.ai/)
 
 <!-- 开发运维 -->
 
@@ -133,7 +133,7 @@
 
 #### Shell
 
-[![PowerShell](https://img.shields.io/badge/pwsh_%E2%80%8D-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://microsoft.com/PowerShell)
+[![PowerShell](https://img.shields.io/badge/ps1_%E2%80%8D-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://microsoft.com/PowerShell)
 [![GNU Bash](https://img.shields.io/badge/%E2%80%8D-GNU%20Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Nushell](https://img.shields.io/badge/nu_%E2%80%8B-Nushell-4E9A06?style=flat-square&logoColor=white)](https://www.nushell.sh/)
 
@@ -152,7 +152,7 @@
 
 [![Visual Studio Code](https://img.shields.io/badge/VSC_%E2%80%8D-Visual_Studio_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Vim](https://img.shields.io/badge/%E2%80%8D-Vim-019733?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
-[![Cursor](https://img.shields.io/badge/C_%E2%80%8D-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.com/)
+[![Cursor](https://img.shields.io/badge/%E2%80%8D-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.com/)
 
 #### Code
 
