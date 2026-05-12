@@ -255,6 +255,7 @@
 [![Watchtower](https://img.shields.io/badge/%E2%80%8D-Watchtower-416271?style=flat-square&logo=watchtower&logoColor=white)](https://containrrr.dev/watchtower/)
 
 [![Nginx](https://img.shields.io/badge/%E2%80%8D-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org/)
+
 [![MinIO](https://img.shields.io/badge/%E2%80%8D-MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)](https://min.io/)
 [![RustFS](https://img.shields.io/badge/%E2%80%8D-RustFS-0196D0?style=flat-square&logo=rustfs&logoColor=white)](https://rustfs.com/)
 
@@ -273,7 +274,9 @@
 [![OpenSSL](https://img.shields.io/badge/%E2%80%8D-OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white)](https://www.openssl.org/)
 [![Wireshark](https://img.shields.io/badge/%E2%80%8D-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![KeePassXC](https://img.shields.io/badge/%E2%80%8D-KeePassXC-6CAC4D?style=flat-square&logo=keepassxc&logoColor=white)](https://keepassxc.org/)
+
 [![Tailscale](https://img.shields.io/badge/%E2%80%8D-Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)](https://tailscale.com/)
+[![OpenVPN](https://img.shields.io/badge/%E2%80%8D-OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)](https://openvpn.net/)
 
 #### Other
 
