@@ -1,6 +1,7 @@
 # REF: https://github.com/stats-organization/github-readme-stats-action#readme
+# REF: https://github.com/yoshi389111/github-profile-3d-contrib
 
-name: GitHub Readme Stats
+name: Profile Cards
 
 on:
   schedule:
@@ -12,11 +13,22 @@ on:
   # allows to manually run the job at any time
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-profile-cards
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
+
+      - name: Generate profile 3D contribution card
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: ./configs/profile-3d-contrib.json
 
       - name: Generate stats light card
         uses: readme-tools/github-readme-stats-action@v1
@@ -54,6 +66,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add profile/*.svg
+          git add profile-stats/*.svg
+          git add profile-3d-contrib/*.svg
           git commit -m "Update README cards" || exit 0
           git push
