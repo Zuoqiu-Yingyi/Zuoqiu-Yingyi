@@ -256,6 +256,7 @@
 
 [![Nginx](https://img.shields.io/badge/%E2%80%8D-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org/)
 [![MinIO](https://img.shields.io/badge/%E2%80%8D-MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)](https://min.io/)
+[![RustFS](https://img.shields.io/badge/%E2%80%8D-RustFS-0196D0?style=flat-square&logo=rustfs&logoColor=white)](https://rustfs.com/)
 
 #### CI/CD
 
