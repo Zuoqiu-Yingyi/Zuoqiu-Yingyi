@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yingyi / &#39062;&#36920;'s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 553, Total Commits  : 12598, Total PRs: 519, Total PRs Merged: 474, Merged PRs Percentage: 91.33, Total PRs Reviewed: 0, Total Issues: 275, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 553, Total Commits  : 12600, Total PRs: 519, Total PRs Merged: 474, Merged PRs Percentage: 91.33, Total PRs Reviewed: 0, Total Issues: 275, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 29.5909149229269;
+        stroke-dashoffset: 29.590905563113594;
       }
     }
   
