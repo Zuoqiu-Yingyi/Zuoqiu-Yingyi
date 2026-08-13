@@ -37,7 +37,7 @@
 [![Sass](https://img.shields.io/badge/%E2%80%8D-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
 
 [![JSON](https://img.shields.io/badge/%E2%80%8D-JSON-F9A825?style=flat-square&logo=json&logoColor=white)](https://www.json.org/)
-[![XML](https://img.shields.io/badge/X_%E2%80%8D-XML-8BC34A?style=flat-square&logoColor=white)](https://www.w3.org/XML/)
+[![XML](https://img.shields.io/badge/%E2%80%8D-XML-005FAD?style=flat-square&logo=xml&logoColor=white)](https://www.w3.org/XML/)
 [![YAML](https://img.shields.io/badge/%E2%80%8D-YAML-CB171E?style=flat-square&&logo=yaml&logoColor=white)](https://yaml.org/)
 [![TOML](https://img.shields.io/badge/%E2%80%8D-TOML-9C4121?style=flat-square&&logo=toml&logoColor=white)](https://toml.io/)
 
@@ -141,6 +141,7 @@
 
 [![Firefox](https://img.shields.io/badge/%E2%80%8D-Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://www.mozilla.org/firefox/)
 [![Chromium](https://img.shields.io/badge/%E2%80%8D-Chromium-1A73E8?style=flat-square&logo=googlechrome&logoColor=white)](https://www.chromium.org/Home/)
+[![Vivaldi](https://img.shields.io/badge/%E2%80%8D-Vivaldi-EF3939?style=flat-square&logo=vivaldi&logoColor=white)](https://vivaldi.com/)
 
 #### IDE
 
