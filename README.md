@@ -94,6 +94,9 @@
 
 ### AI
 
+[![Claude Code](https://img.shields.io/badge/%E2%80%8D-Claude_Code-D97757?style=flat-square&logo=claudecode&logoColor=white)](https://claude.com/product/claude-code)
+[![OpenCode](https://img.shields.io/badge/%E2%80%8D-OpenCode-000000?style=flat-square&logo=opencode&logoColor=white)](https://opencode.com/)
+
 [![Ollama](https://img.shields.io/badge/%E2%80%8D-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com/)
 
 [![n8n](https://img.shields.io/badge/%E2%80%8D-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
